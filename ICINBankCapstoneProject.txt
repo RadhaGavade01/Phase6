@@ -1,0 +1,27 @@
+ICIN Bank Capstone Project 
+=========================
+Github Link - https://github.com/githubajaydhage/Final-Capstone-Project/tree/master
+=========================
+Features of the application:
+=========================
+Registration
+Login
+Account transactions
+Transfers
+Savings details
+Profile settings
+Requesting cheque books
+===========================
+Recommended technologies:
+===========================
+Database management: MySQL
+Back-end logic: Java programming, SpringBoot framework
+Front-end development: Angular 2, HTML/CSS,
+Automation and testing technologies: Selenium and JUnit
+DevOps and production technologies: Git, GitHub, Jenkins, Docker, and AWS
+--------------------------
+Developer Details 
+---------------------------
+Name - Ajay Dhage 
+Email - ajay.dhage@comviva.com
+---------------------------

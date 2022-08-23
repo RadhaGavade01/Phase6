@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="370246" started-at="2020-08-17T12:28:31Z" finished-at="2020-08-17T12:34:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="370246" started-at="2020-08-17T12:28:31Z" finished-at="2020-08-17T12:34:41Z">
+      <class name="com.icinbank.Profiledisplay">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.icinbank.Profiledisplay@3b088d51]" name="setup" is-config="true" duration-ms="19118" started-at="2020-08-17T12:29:03Z" finished-at="2020-08-17T12:29:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="profileview()[pri:2, instance:com.icinbank.Profiledisplay@3b088d51]" name="profileview" duration-ms="9952" started-at="2020-08-17T12:29:22Z" finished-at="2020-08-17T12:29:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profileview -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.icinbank.Profiledisplay@3b088d51]" name="tearDown" is-config="true" duration-ms="746" started-at="2020-08-17T12:29:32Z" finished-at="2020-08-17T12:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.icinbank.Profiledisplay@3b088d51]" name="setup" is-config="true" duration-ms="13153" started-at="2020-08-17T12:29:33Z" finished-at="2020-08-17T12:29:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logoutTest()[pri:3, instance:com.icinbank.Profiledisplay@3b088d51]" name="logoutTest" duration-ms="12174" started-at="2020-08-17T12:29:46Z" finished-at="2020-08-17T12:29:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.icinbank.Profiledisplay@3b088d51]" name="tearDown" is-config="true" duration-ms="421" started-at="2020-08-17T12:29:58Z" finished-at="2020-08-17T12:29:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.icinbank.Profiledisplay -->
+      <class name="com.icinbank.TransferbtwAccounts">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.icinbank.TransferbtwAccounts@15d0c81b]" name="setup" is-config="true" duration-ms="18182" started-at="2020-08-17T12:31:01Z" finished-at="2020-08-17T12:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="primaryTOsavings()[pri:8, instance:com.icinbank.TransferbtwAccounts@15d0c81b]" name="primaryTOsavings" duration-ms="14464" started-at="2020-08-17T12:31:19Z" finished-at="2020-08-17T12:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- primaryTOsavings -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.icinbank.TransferbtwAccounts@15d0c81b]" name="tearDown" is-config="true" duration-ms="314" started-at="2020-08-17T12:31:34Z" finished-at="2020-08-17T12:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.icinbank.TransferbtwAccounts@15d0c81b]" name="setup" is-config="true" duration-ms="15648" started-at="2020-08-17T12:31:34Z" finished-at="2020-08-17T12:31:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="savingsTOprimary()[pri:9, instance:com.icinbank.TransferbtwAccounts@15d0c81b]" name="savingsTOprimary" duration-ms="15421" started-at="2020-08-17T12:31:50Z" finished-at="2020-08-17T12:32:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- savingsTOprimary -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.icinbank.TransferbtwAccounts@15d0c81b]" name="tearDown" is-config="true" duration-ms="287" started-at="2020-08-17T12:32:05Z" finished-at="2020-08-17T12:32:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.icinbank.TransferbtwAccounts -->
+      <class name="com.icinbank.AddRecipient">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.icinbank.AddRecipient@4b1c1ea0]" name="setup" is-config="true" duration-ms="16242" started-at="2020-08-17T12:32:31Z" finished-at="2020-08-17T12:32:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addRecipient()[pri:11, instance:com.icinbank.AddRecipient@4b1c1ea0]" name="addRecipient" duration-ms="16894" started-at="2020-08-17T12:32:47Z" finished-at="2020-08-17T12:33:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRecipient -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.icinbank.AddRecipient@4b1c1ea0]" name="tearDown" is-config="true" duration-ms="249" started-at="2020-08-17T12:33:04Z" finished-at="2020-08-17T12:33:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.icinbank.AddRecipient -->
+      <class name="com.icinbank.RequestChequebook">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.icinbank.RequestChequebook@74650e52]" name="setup" is-config="true" duration-ms="14091" started-at="2020-08-17T12:32:06Z" finished-at="2020-08-17T12:32:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="requestcheque()[pri:10, instance:com.icinbank.RequestChequebook@74650e52]" name="requestcheque" duration-ms="10548" started-at="2020-08-17T12:32:20Z" finished-at="2020-08-17T12:32:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requestcheque -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.icinbank.RequestChequebook@74650e52]" name="tearDown" is-config="true" duration-ms="376" started-at="2020-08-17T12:32:30Z" finished-at="2020-08-17T12:32:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.icinbank.RequestChequebook -->
+      <class name="com.icinbank.LoginForm">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.icinbank.LoginForm@6acdbdf5]" name="setup" is-config="true" duration-ms="8020" started-at="2020-08-17T12:33:04Z" finished-at="2020-08-17T12:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:12, instance:com.icinbank.LoginForm@6acdbdf5]" name="loginTest" duration-ms="5016" started-at="2020-08-17T12:33:12Z" finished-at="2020-08-17T12:33:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.icinbank.LoginForm@6acdbdf5]" name="tearDown" is-config="true" duration-ms="4241" started-at="2020-08-17T12:33:17Z" finished-at="2020-08-17T12:33:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.icinbank.LoginForm@6acdbdf5]" name="setup" is-config="true" duration-ms="7907" started-at="2020-08-17T12:33:21Z" finished-at="2020-08-17T12:33:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="invalidLoginTest()[pri:13, instance:com.icinbank.LoginForm@6acdbdf5]" name="invalidLoginTest" duration-ms="6424" started-at="2020-08-17T12:33:29Z" finished-at="2020-08-17T12:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.icinbank.LoginForm@6acdbdf5]" name="tearDown" is-config="true" duration-ms="490" started-at="2020-08-17T12:33:36Z" finished-at="2020-08-17T12:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.icinbank.LoginForm -->
+      <class name="com.icinbank.RegistrationForm">
+        <test-method status="PASS" signature="registrationTest()[pri:1, instance:com.icinbank.RegistrationForm@53f65459]" name="registrationTest" duration-ms="31859" started-at="2020-08-17T12:28:31Z" finished-at="2020-08-17T12:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationTest -->
+      </class> <!-- com.icinbank.RegistrationForm -->
+      <class name="com.icinbank.Deposit">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.icinbank.Deposit@1786dec2]" name="setup" is-config="true" duration-ms="14034" started-at="2020-08-17T12:29:59Z" finished-at="2020-08-17T12:30:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="primaryDeposit()[pri:4, instance:com.icinbank.Deposit@1786dec2]" name="primaryDeposit" duration-ms="17043" started-at="2020-08-17T12:30:13Z" finished-at="2020-08-17T12:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- primaryDeposit -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.icinbank.Deposit@1786dec2]" name="tearDown" is-config="true" duration-ms="398" started-at="2020-08-17T12:30:30Z" finished-at="2020-08-17T12:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.icinbank.Deposit@1786dec2]" name="setup" is-config="true" duration-ms="15634" started-at="2020-08-17T12:30:30Z" finished-at="2020-08-17T12:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="savingsDeposit()[pri:5, instance:com.icinbank.Deposit@1786dec2]" name="savingsDeposit" duration-ms="15158" started-at="2020-08-17T12:30:46Z" finished-at="2020-08-17T12:31:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- savingsDeposit -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.icinbank.Deposit@1786dec2]" name="tearDown" is-config="true" duration-ms="268" started-at="2020-08-17T12:31:01Z" finished-at="2020-08-17T12:31:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.icinbank.Deposit -->
+      <class name="com.icinbank.Withdraw">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.icinbank.Withdraw@17579e0f]" name="setup" is-config="true" duration-ms="14494" started-at="2020-08-17T12:33:36Z" finished-at="2020-08-17T12:33:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="primaryWithdraw()[pri:14, instance:com.icinbank.Withdraw@17579e0f]" name="primaryWithdraw" duration-ms="17193" started-at="2020-08-17T12:33:51Z" finished-at="2020-08-17T12:34:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- primaryWithdraw -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.icinbank.Withdraw@17579e0f]" name="tearDown" is-config="true" duration-ms="333" started-at="2020-08-17T12:34:08Z" finished-at="2020-08-17T12:34:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.icinbank.Withdraw@17579e0f]" name="setup" is-config="true" duration-ms="12917" started-at="2020-08-17T12:34:08Z" finished-at="2020-08-17T12:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="savingsWithdraw()[pri:15, instance:com.icinbank.Withdraw@17579e0f]" name="savingsWithdraw" duration-ms="16075" started-at="2020-08-17T12:34:21Z" finished-at="2020-08-17T12:34:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- savingsWithdraw -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.icinbank.Withdraw@17579e0f]" name="tearDown" is-config="true" duration-ms="4284" started-at="2020-08-17T12:34:37Z" finished-at="2020-08-17T12:34:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.icinbank.Withdraw -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
